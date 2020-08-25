@@ -3,7 +3,7 @@ git地址：[react-chat-bubble-date]( https://github.com/qdhaiqiang/react-chat-b
 ## 安装
 
 ```
-npm install --save react-chat-bubble-date
+npm install --save react-chat-bubble-hc
 ```
 
 ## 使用
@@ -13,7 +13,7 @@ npm install --save react-chat-bubble-date
 案例:
 
 ```js
-import ChatBubble from 'react-chat-bubble';
+import ChatBubble from 'react-chat-bubble-hc';
 
 class App extends Component {
   render() {
