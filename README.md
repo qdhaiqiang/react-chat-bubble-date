@@ -68,3 +68,5 @@ nikename:聊天昵称(字符串)
 
 
 
+另外，项目运过来有改动。因为运行项目的时候报错，Unexpected token。应该是箭头函数的问题，所以加了.babelrc文件。
+还需要安装两个插件npm install --save-dev babel-preset-stage-0，npm install babel-preset-es2015
